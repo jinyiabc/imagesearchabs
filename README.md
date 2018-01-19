@@ -1,27 +1,15 @@
-Welcome to the Glitch BETA
-=========================
+Image Search Abstraction Layer 
+==============================
 
-Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
+**Objective:** Build a full stack JavaScript app that allows you to search for images like this:
 
-**Glitch** is the friendly community where you'll build the app of your dreams. Glitch lets you instantly create, remix, edit, and host an app, bot or site, and you can invite collaborators or helpers to simultaneously edit code with you.
+https://imagesearchab.glitch.me/api/imagesearch/lolcats%20funny?offset=10
 
-Find out more [about Glitch](https://glitch.com/about).
+and browse recent search queries like this: 
 
+https://imagesearchab.glitch.me/api/latest/imagesearch/
 
-Your Project
-------------
-
-On the front-end,
-- edit `public/client.js`, `public/style.css` and `views/index.html`
-- drag in `assets`, like images or music, to add them to your project
-
-On the back-end,
-- your app starts at `server.js`
-- add frameworks and packages in `package.json`
-- safely store app secrets in `.env` (nobody can see this but you and people you invite)
+Then deploy it to Glitch.
 
 
-Made by [Fog Creek](https://fogcreek.com/)
--------------------
-
-\ ゜o゜)ノ
+By Alex J.Y.
